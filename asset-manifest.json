@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/iz-react/static/css/main.bc91d53d.css",
-    "main.js": "/iz-react/static/js/main.9e9b12bd.js",
+    "main.css": "/iz-react/static/css/main.d3a7b31e.css",
+    "main.js": "/iz-react/static/js/main.c7a217ff.js",
     "static/js/787.0b356b70.chunk.js": "/iz-react/static/js/787.0b356b70.chunk.js",
     "static/media/Dahyunn.jpg": "/iz-react/static/media/Dahyunn.8ba39dd54c4226aa048e.jpg",
     "static/media/Dahyun.jpg": "/iz-react/static/media/Dahyun.8205d2bed2cdc9b4e0bb.jpg",
     "index.html": "/iz-react/index.html",
-    "main.bc91d53d.css.map": "/iz-react/static/css/main.bc91d53d.css.map",
-    "main.9e9b12bd.js.map": "/iz-react/static/js/main.9e9b12bd.js.map",
+    "main.d3a7b31e.css.map": "/iz-react/static/css/main.d3a7b31e.css.map",
+    "main.c7a217ff.js.map": "/iz-react/static/js/main.c7a217ff.js.map",
     "787.0b356b70.chunk.js.map": "/iz-react/static/js/787.0b356b70.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc91d53d.css",
-    "static/js/main.9e9b12bd.js"
+    "static/css/main.d3a7b31e.css",
+    "static/js/main.c7a217ff.js"
   ]
 }
